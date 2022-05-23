@@ -27,5 +27,4 @@ steps:
     publishLocation: 'Container'
   
 - task: CopyFiles@2
-  inputs:
-    SourceFolder: '\agent\_work\1\a'
+ 
