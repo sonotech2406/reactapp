@@ -29,5 +29,3 @@ steps:
 - task: CopyFiles@2
   inputs:
     SourceFolder: '\agent\_work\1\a'
-    Contents: '**'
-    TargetFolder: 
