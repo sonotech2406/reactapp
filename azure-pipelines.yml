@@ -28,4 +28,6 @@ steps:
   
 - task: CopyFiles@2
   inputs:
-        targetFolder: '$(Build.ArtifactStagingDirectory)'
+    SourceFolder: '\agent\_work\1\a'
+    Contents: '**'
+    TargetFolder: 
