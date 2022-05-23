@@ -26,5 +26,4 @@ steps:
     ArtifactName: 'drop'
     publishLocation: 'Container'
   
-- task: CopyFiles@2
  
